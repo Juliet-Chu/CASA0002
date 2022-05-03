@@ -1,0 +1,468 @@
+﻿edgedefault,id2,ns1:data,key,source,target,ns1:data3,key4
+undirected,,,,Wembley Park,Kingsbury,Jubilee,d2
+undirected,,,,Wembley Park,Neasden,Jubilee,d2
+undirected,,,,Wembley Park,Preston Road,Metropolitan,d2
+undirected,,,,Wembley Park,Finchley Road,Metropolitan,d2
+undirected,,,,Kingsbury,Queensbury,Jubilee,d2
+undirected,,,,Queensbury,Canons Park,Jubilee,d2
+undirected,,,,Canons Park,Stanmore,Jubilee,d2
+undirected,,,,Stratford,West Ham,Jubilee,d2
+undirected,,,,Stratford,Mile End,Central,d2
+undirected,,,,Stratford,Leyton,Central,d2
+undirected,,,,Stratford,Hackney Wick,London Overground,d2
+undirected,,,,Stratford,Stratford High Street,DLR,d2
+undirected,,,,Stratford,Pudding Mill Lane,DLR,d2
+undirected,,,,Stratford,Stratford International,DLR,d2
+undirected,,,,Stratford,Liverpool Street,TfL Rail,d2
+undirected,,,,Stratford,Maryland,TfL Rail,d2
+undirected,,,,West Ham,Canning Town,Jubilee,d2
+undirected,,,,West Ham,Bromley-by-Bow,Hammersmith & City,d2
+undirected,,,,West Ham,Plaistow,Hammersmith & City,d2
+undirected,,,,West Ham,Abbey Road,DLR,d2
+undirected,,,,West Ham,Star Lane,DLR,d2
+undirected,,,,Canning Town,North Greenwich,Jubilee,d2
+undirected,,,,Canning Town,Star Lane,DLR,d2
+undirected,,,,Canning Town,Royal Victoria,DLR,d2
+undirected,,,,Canning Town,East India,DLR,d2
+undirected,,,,Canning Town,West Silvertown,DLR,d2
+undirected,,,,North Greenwich,Canary Wharf,Jubilee,d2
+undirected,,,,Canary Wharf,Canada Water,Jubilee,d2
+undirected,,,,Canary Wharf,West India Quay,DLR,d2
+undirected,,,,Canary Wharf,Heron Quays,DLR,d2
+undirected,,,,Canada Water,Bermondsey,Jubilee,d2
+undirected,,,,Canada Water,Rotherhithe,London Overground,d2
+undirected,,,,Canada Water,Surrey Quays,London Overground,d2
+undirected,,,,Bermondsey,London Bridge,Jubilee,d2
+undirected,,,,London Bridge,Southwark,Jubilee,d2
+undirected,,,,London Bridge,Bank and Monument,Northern,d2
+undirected,,,,London Bridge,Borough,Northern,d2
+undirected,,,,Southwark,Waterloo,Jubilee,d2
+undirected,,,,Waterloo,Westminster,Jubilee,d2
+undirected,,,,Waterloo,Embankment,Bakerloo,d2
+undirected,,,,Waterloo,Kennington,Northern,d2
+undirected,,,,Waterloo,Lambeth North,Bakerloo,d2
+undirected,,,,Waterloo,Bank and Monument,Waterloo & City,d2
+undirected,,,,Westminster,Green Park,Jubilee,d2
+undirected,,,,Westminster,St. James's Park,Circle,d2
+undirected,,,,Westminster,Embankment,Circle,d2
+undirected,,,,Green Park,Bond Street,Jubilee,d2
+undirected,,,,Green Park,Hyde Park Corner,Piccadilly,d2
+undirected,,,,Green Park,Piccadilly Circus,Piccadilly,d2
+undirected,,,,Green Park,Victoria,Victoria,d2
+undirected,,,,Green Park,Oxford Circus,Victoria,d2
+undirected,,,,Bond Street,Baker Street,Jubilee,d2
+undirected,,,,Bond Street,Marble Arch,Central,d2
+undirected,,,,Bond Street,Oxford Circus,Central,d2
+undirected,,,,Baker Street,St. John's Wood,Jubilee,d2
+undirected,,,,Baker Street,Great Portland Street,Hammersmith & City,d2
+undirected,,,,Baker Street,Edgware Road,Hammersmith & City,d2
+undirected,,,,Baker Street,Finchley Road,Metropolitan,d2
+undirected,,,,Baker Street,Marylebone,Bakerloo,d2
+undirected,,,,Baker Street,Regent's Park,Bakerloo,d2
+undirected,,,,St. John's Wood,Swiss Cottage,Jubilee,d2
+undirected,,,,Swiss Cottage,Finchley Road,Jubilee,d2
+undirected,,,,Finchley Road,West Hampstead,Jubilee,d2
+undirected,,,,Neasden,Dollis Hill,Jubilee,d2
+undirected,,,,Dollis Hill,Willesden Green,Jubilee,d2
+undirected,,,,Willesden Green,Kilburn,Jubilee,d2
+undirected,,,,Kilburn,West Hampstead,Jubilee,d2
+undirected,,,,West Hampstead,Brondesbury,London Overground,d2
+undirected,,,,West Hampstead,Finchley Road & Frognal,London Overground,d2
+undirected,,,,West Acton,Ealing Broadway,Central,d2
+undirected,,,,West Acton,North Acton,Central,d2
+undirected,,,,Ealing Broadway,Ealing Common,District,d2
+undirected,,,,North Acton,Hanger Lane,Central,d2
+undirected,,,,North Acton,East Acton,Central,d2
+undirected,,,,West Ruislip,Ruislip Gardens,Central,d2
+undirected,,,,Ruislip Gardens,South Ruislip,Central,d2
+undirected,,,,South Ruislip,Northolt,Central,d2
+undirected,,,,Northolt,Greenford,Central,d2
+undirected,,,,Greenford,Perivale,Central,d2
+undirected,,,,Perivale,Hanger Lane,Central,d2
+undirected,,,,East Acton,White City,Central,d2
+undirected,,,,White City,Shepherd's Bush,Central,d2
+undirected,,,,Shepherd's Bush,Holland Park,Central,d2
+undirected,,,,Shepherd's Bush,Kensington,London Overground,d2
+undirected,,,,Shepherd's Bush,Willesden Junction,London Overground,d2
+undirected,,,,Holland Park,Notting Hill Gate,Central,d2
+undirected,,,,Notting Hill Gate,Queensway,Central,d2
+undirected,,,,Notting Hill Gate,High Street Kensington,Circle,d2
+undirected,,,,Notting Hill Gate,Bayswater,Circle,d2
+undirected,,,,Queensway,Lancaster Gate,Central,d2
+undirected,,,,Lancaster Gate,Marble Arch,Central,d2
+undirected,,,,Oxford Circus,Tottenham Court Road,Central,d2
+undirected,,,,Oxford Circus,Regent's Park,Bakerloo,d2
+undirected,,,,Oxford Circus,Piccadilly Circus,Bakerloo,d2
+undirected,,,,Oxford Circus,Warren Street,Victoria,d2
+undirected,,,,Tottenham Court Road,Holborn,Central,d2
+undirected,,,,Tottenham Court Road,Goodge Street,Northern,d2
+undirected,,,,Tottenham Court Road,Leicester Square,Northern,d2
+undirected,,,,Holborn,Chancery Lane,Central,d2
+undirected,,,,Holborn,Covent Garden,Piccadilly,d2
+undirected,,,,Holborn,Russell Square,Piccadilly,d2
+undirected,,,,Chancery Lane,St. Paul's,Central,d2
+undirected,,,,St. Paul's,Bank and Monument,Central,d2
+undirected,,,,Bank and Monument,Liverpool Street,Central,d2
+undirected,,,,Bank and Monument,Cannon Street,Circle,d2
+undirected,,,,Bank and Monument,Tower Hill,Circle,d2
+undirected,,,,Bank and Monument,Shadwell,DLR,d2
+undirected,,,,Bank and Monument,Moorgate,Northern,d2
+undirected,,,,Liverpool Street,Bethnal Green,London Overground,d2
+undirected,,,,Liverpool Street,Aldgate,Metropolitan,d2
+undirected,,,,Liverpool Street,Moorgate,Hammersmith & City,d2
+undirected,,,,Liverpool Street,Aldgate East,Hammersmith & City,d2
+undirected,,,,Bethnal Green,Mile End,Central,d2
+undirected,,,,Bethnal Green,Cambridge Heath,London Overground,d2
+undirected,,,,Mile End,Stepney Green,Hammersmith & City,d2
+undirected,,,,Mile End,Bow Road,Hammersmith & City,d2
+undirected,,,,Leyton,Leytonstone,Central,d2
+undirected,,,,Leytonstone,Snaresbrook,Central,d2
+undirected,,,,Leytonstone,Wanstead,Central,d2
+undirected,,,,Snaresbrook,South Woodford,Central,d2
+undirected,,,,South Woodford,Woodford,Central,d2
+undirected,,,,Woodford,Buckhurst Hill,Central,d2
+undirected,,,,Woodford,Roding Valley,Central,d2
+undirected,,,,Buckhurst Hill,Loughton,Central,d2
+undirected,,,,Loughton,Debden,Central,d2
+undirected,,,,Debden,Theydon Bois,Central,d2
+undirected,,,,Theydon Bois,Epping,Central,d2
+undirected,,,,Wanstead,Redbridge,Central,d2
+undirected,,,,Redbridge,Gants Hill,Central,d2
+undirected,,,,Gants Hill,Newbury Park,Central,d2
+undirected,,,,Newbury Park,Barkingside,Central,d2
+undirected,,,,Barkingside,Fairlop,Central,d2
+undirected,,,,Fairlop,Hainault,Central,d2
+undirected,,,,Hainault,Grange Hill,Central,d2
+undirected,,,,Grange Hill,Chigwell,Central,d2
+undirected,,,,Chigwell,Roding Valley,Central,d2
+undirected,,,,Cambridge Heath,London Fields,London Overground,d2
+undirected,,,,London Fields,Hackney Downs,London Overground,d2
+undirected,,,,Hackney Downs,Rectory Road,London Overground,d2
+undirected,,,,Hackney Downs,Clapton,London Overground,d2
+undirected,,,,Rectory Road,Stoke Newington,London Overground,d2
+undirected,,,,Stoke Newington,Stamford Hill,London Overground,d2
+undirected,,,,Stamford Hill,Seven Sisters,London Overground,d2
+undirected,,,,Seven Sisters,Bruce Grove,London Overground,d2
+undirected,,,,Seven Sisters,Finsbury Park,Victoria,d2
+undirected,,,,Seven Sisters,Tottenham Hale,Victoria,d2
+undirected,,,,Bruce Grove,White Hart Lane,London Overground,d2
+undirected,,,,White Hart Lane,Silver Street,London Overground,d2
+undirected,,,,Silver Street,Edmonton Green,London Overground,d2
+undirected,,,,Edmonton Green,Southbury,London Overground,d2
+undirected,,,,Edmonton Green,Bush Hill Park,London Overground,d2
+undirected,,,,Southbury,Turkey Street,London Overground,d2
+undirected,,,,Turkey Street,Theobalds Grove,London Overground,d2
+undirected,,,,Theobalds Grove,Cheshunt,London Overground,d2
+undirected,,,,Enfield Town,Bush Hill Park,London Overground,d2
+undirected,,,,Romford,Emerson Park,London Overground,d2
+undirected,,,,Romford,Chadwell Heath,TfL Rail,d2
+undirected,,,,Romford,Gidea Park,TfL Rail,d2
+undirected,,,,Emerson Park,Upminster,London Overground,d2
+undirected,,,,Upminster,Upminster Bridge,District,d2
+undirected,,,,Clapton,St James Street,London Overground,d2
+undirected,,,,St James Street,Walthamstow Central,London Overground,d2
+undirected,,,,Walthamstow Central,Wood Street,London Overground,d2
+undirected,,,,Walthamstow Central,Blackhorse Road,Victoria,d2
+undirected,,,,Wood Street,Highams Park,London Overground,d2
+undirected,,,,Highams Park,Chingford,London Overground,d2
+undirected,,,,Richmond,Kew Gardens,District,d2
+undirected,,,,Kew Gardens,Gunnersbury,District,d2
+undirected,,,,Gunnersbury,South Acton,London Overground,d2
+undirected,,,,Gunnersbury,Turnham Green,District,d2
+undirected,,,,South Acton,Acton Central,London Overground,d2
+undirected,,,,Harrow & Wealdstone,Kenton,Bakerloo,d2
+undirected,,,,Harrow & Wealdstone,Headstone Lane,London Overground,d2
+undirected,,,,Kenton,South Kenton,Bakerloo,d2
+undirected,,,,South Kenton,North Wembley,Bakerloo,d2
+undirected,,,,North Wembley,Wembley Central,Bakerloo,d2
+undirected,,,,Wembley Central,Stonebridge Park,Bakerloo,d2
+undirected,,,,Stonebridge Park,Harlesden,Bakerloo,d2
+undirected,,,,Harlesden,Willesden Junction,Bakerloo,d2
+undirected,,,,Willesden Junction,Kensal Green,Bakerloo,d2
+undirected,,,,Willesden Junction,Acton Central,London Overground,d2
+undirected,,,,Willesden Junction,Kensal Rise,London Overground,d2
+undirected,,,,Kensal Green,Queen's Park,Bakerloo,d2
+undirected,,,,Queen's Park,Kilburn High Road,London Overground,d2
+undirected,,,,Queen's Park,Kilburn Park,Bakerloo,d2
+undirected,,,,Kilburn High Road,South Hampstead,London Overground,d2
+undirected,,,,Kensal Rise,Brondesbury Park,London Overground,d2
+undirected,,,,Brondesbury Park,Brondesbury,London Overground,d2
+undirected,,,,Finchley Road & Frognal,Hampstead Heath,London Overground,d2
+undirected,,,,Hampstead Heath,Gospel Oak,London Overground,d2
+undirected,,,,Gospel Oak,Kentish Town West,London Overground,d2
+undirected,,,,Gospel Oak,Upper Holloway,London Overground,d2
+undirected,,,,Kentish Town West,Camden Road,London Overground,d2
+undirected,,,,Camden Road,Caledonian Road & Barnsbury,London Overground,d2
+undirected,,,,Caledonian Road & Barnsbury,Highbury & Islington,London Overground,d2
+undirected,,,,Highbury & Islington,Canonbury,London Overground,d2
+undirected,,,,Highbury & Islington,King's Cross St. Pancras,Victoria,d2
+undirected,,,,Highbury & Islington,Finsbury Park,Victoria,d2
+undirected,,,,Canonbury,Dalston Kingsland,London Overground,d2
+undirected,,,,Canonbury,Dalston Junction,London Overground,d2
+undirected,,,,Dalston Kingsland,Hackney Central,London Overground,d2
+undirected,,,,Hackney Central,Homerton,London Overground,d2
+undirected,,,,Homerton,Hackney Wick,London Overground,d2
+undirected,,,,Whitechapel,Shadwell,London Overground,d2
+undirected,,,,Whitechapel,Shoreditch High Street,London Overground,d2
+undirected,,,,Whitechapel,Aldgate East,Hammersmith & City,d2
+undirected,,,,Whitechapel,Stepney Green,Hammersmith & City,d2
+undirected,,,,Shadwell,Wapping,London Overground,d2
+undirected,,,,Shadwell,Limehouse,DLR,d2
+undirected,,,,Shadwell,Tower Gateway,DLR,d2
+undirected,,,,Wapping,Rotherhithe,London Overground,d2
+undirected,,,,Surrey Quays,New Cross Gate,London Overground,d2
+undirected,,,,Surrey Quays,New Cross,London Overground,d2
+undirected,,,,Surrey Quays,Queens Road Peckham,London Overground,d2
+undirected,,,,New Cross Gate,Brockley,London Overground,d2
+undirected,,,,Shoreditch High Street,Hoxton,London Overground,d2
+undirected,,,,Sydenham,Crystal Palace,London Overground,d2
+undirected,,,,Sydenham,Forest Hill,London Overground,d2
+undirected,,,,Sydenham,Penge West,London Overground,d2
+undirected,,,,Queens Road Peckham,Peckham Rye,London Overground,d2
+undirected,,,,Peckham Rye,Denmark Hill,London Overground,d2
+undirected,,,,Denmark Hill,Clapham High Street,London Overground,d2
+undirected,,,,Clapham High Street,Wandsworth Road,London Overground,d2
+undirected,,,,Wandsworth Road,Clapham Junction,London Overground,d2
+undirected,,,,Wandsworth Road,Battersea Park,London Overground,d2
+undirected,,,,Clapham Junction,Imperial Wharf,London Overground,d2
+undirected,,,,West Brompton,Imperial Wharf,London Overground,d2
+undirected,,,,West Brompton,Kensington,London Overground,d2
+undirected,,,,West Brompton,Earl's Court,District,d2
+undirected,,,,West Brompton,Fulham Broadway,District,d2
+undirected,,,,South Hampstead,Euston,London Overground,d2
+undirected,,,,Euston,Camden Town,Northern,d2
+undirected,,,,Euston,King's Cross St. Pancras,Victoria,d2
+undirected,,,,Euston,Mornington Crescent,Northern,d2
+undirected,,,,Euston,Warren Street,Victoria,d2
+undirected,,,,Bushey,Watford High Street,London Overground,d2
+undirected,,,,Bushey,Carpenders Park,London Overground,d2
+undirected,,,,Watford High Street,Watford Junction,London Overground,d2
+undirected,,,,Carpenders Park,Hatch End,London Overground,d2
+undirected,,,,Hatch End,Headstone Lane,London Overground,d2
+undirected,,,,Upper Holloway,Crouch Hill,London Overground,d2
+undirected,,,,Crouch Hill,Harringay Green Lanes,London Overground,d2
+undirected,,,,Harringay Green Lanes,South Tottenham,London Overground,d2
+undirected,,,,South Tottenham,Blackhorse Road,London Overground,d2
+undirected,,,,Blackhorse Road,Walthamstow Queens Road,London Overground,d2
+undirected,,,,Blackhorse Road,Tottenham Hale,Victoria,d2
+undirected,,,,Walthamstow Queens Road,Leyton Midland Road,London Overground,d2
+undirected,,,,Leyton Midland Road,Leytonstone High Road,London Overground,d2
+undirected,,,,Leytonstone High Road,Wanstead Park,London Overground,d2
+undirected,,,,Wanstead Park,Woodgrange Park,London Overground,d2
+undirected,,,,Woodgrange Park,Barking,London Overground,d2
+undirected,,,,Barking,East Ham,Hammersmith & City,d2
+undirected,,,,Barking,Upney,District,d2
+undirected,,,,Brockley,Honor Oak Park,London Overground,d2
+undirected,,,,Honor Oak Park,Forest Hill,London Overground,d2
+undirected,,,,Penge West,Anerley,London Overground,d2
+undirected,,,,Anerley,Norwood Junction,London Overground,d2
+undirected,,,,Norwood Junction,West Croydon,London Overground,d2
+undirected,,,,Dalston Junction,Haggerston,London Overground,d2
+undirected,,,,Haggerston,Hoxton,London Overground,d2
+undirected,,,,Kensington,Earl's Court,District,d2
+undirected,,,,Earl's Court,Gloucester Road,Piccadilly,d2
+undirected,,,,Earl's Court,West Kensington,District,d2
+undirected,,,,Earl's Court,High Street Kensington,District,d2
+undirected,,,,Earl's Court,Barons Court,Piccadilly,d2
+undirected,,,,Gloucester Road,South Kensington,Piccadilly,d2
+undirected,,,,Gloucester Road,High Street Kensington,Circle,d2
+undirected,,,,West Kensington,Barons Court,District,d2
+undirected,,,,Barons Court,Hammersmith,Piccadilly,d2
+undirected,,,,Hammersmith,Ravenscourt Park,District,d2
+undirected,,,,Hammersmith,Goldhawk Road,Hammersmith & City,d2
+undirected,,,,Hammersmith,Turnham Green,Piccadilly,d2
+undirected,,,,Ravenscourt Park,Stamford Brook,District,d2
+undirected,,,,Stamford Brook,Turnham Green,District,d2
+undirected,,,,Turnham Green,Chiswick Park,District,d2
+undirected,,,,Turnham Green,Acton Town,Piccadilly,d2
+undirected,,,,Chiswick Park,Acton Town,District,d2
+undirected,,,,Acton Town,Ealing Common,Piccadilly,d2
+undirected,,,,Acton Town,South Ealing,Piccadilly,d2
+undirected,,,,Ealing Common,North Ealing,Piccadilly,d2
+undirected,,,,South Kensington,Sloane Square,Circle,d2
+undirected,,,,South Kensington,Knightsbridge,Piccadilly,d2
+undirected,,,,Sloane Square,Victoria,Circle,d2
+undirected,,,,Wimbledon,Wimbledon Park,District,d2
+undirected,,,,Wimbledon Park,Southfields,District,d2
+undirected,,,,Southfields,East Putney,District,d2
+undirected,,,,East Putney,Putney Bridge,District,d2
+undirected,,,,Putney Bridge,Parsons Green,District,d2
+undirected,,,,Parsons Green,Fulham Broadway,District,d2
+undirected,,,,Bayswater,Paddington,Circle,d2
+undirected,,,,Paddington,Edgware Road,Hammersmith & City,d2
+undirected,,,,Paddington,Royal Oak,Hammersmith & City,d2
+undirected,,,,Paddington,Warwick Avenue,Bakerloo,d2
+undirected,,,,Edgware Road,Marylebone,Bakerloo,d2
+undirected,,,,Victoria,St. James's Park,Circle,d2
+undirected,,,,Victoria,Pimlico,Victoria,d2
+undirected,,,,Embankment,Temple,Circle,d2
+undirected,,,,Embankment,Charing Cross,Bakerloo,d2
+undirected,,,,Temple,Blackfriars,Circle,d2
+undirected,,,,Blackfriars,Mansion House,Circle,d2
+undirected,,,,Mansion House,Cannon Street,Circle,d2
+undirected,,,,Tower Hill,Aldgate East,District,d2
+undirected,,,,Tower Hill,Aldgate,Circle,d2
+undirected,,,,Bow Road,Bromley-by-Bow,Hammersmith & City,d2
+undirected,,,,Plaistow,Upton Park,Hammersmith & City,d2
+undirected,,,,Upton Park,East Ham,Hammersmith & City,d2
+undirected,,,,Upney,Becontree,District,d2
+undirected,,,,Becontree,Dagenham Heathway,District,d2
+undirected,,,,Dagenham Heathway,Dagenham East,District,d2
+undirected,,,,Dagenham East,Elm Park,District,d2
+undirected,,,,Elm Park,Hornchurch,District,d2
+undirected,,,,Hornchurch,Upminster Bridge,District,d2
+undirected,,,,Great Portland Street,Euston Square,Hammersmith & City,d2
+undirected,,,,Euston Square,King's Cross St. Pancras,Hammersmith & City,d2
+undirected,,,,King's Cross St. Pancras,Farringdon,Hammersmith & City,d2
+undirected,,,,King's Cross St. Pancras,Angel,Northern,d2
+undirected,,,,King's Cross St. Pancras,Russell Square,Piccadilly,d2
+undirected,,,,King's Cross St. Pancras,Caledonian Road,Piccadilly,d2
+undirected,,,,Farringdon,Barbican,Hammersmith & City,d2
+undirected,,,,Barbican,Moorgate,Hammersmith & City,d2
+undirected,,,,Moorgate,Old Street,Northern,d2
+undirected,,,,Goldhawk Road,Shepherd's Bush Market,Hammersmith & City,d2
+undirected,,,,Shepherd's Bush Market,Wood Lane,Hammersmith & City,d2
+undirected,,,,Wood Lane,Latimer Road,Hammersmith & City,d2
+undirected,,,,Latimer Road,Ladbroke Grove,Hammersmith & City,d2
+undirected,,,,Ladbroke Grove,Westbourne Park,Hammersmith & City,d2
+undirected,,,,Westbourne Park,Royal Oak,Hammersmith & City,d2
+undirected,,,,Uxbridge,Hillingdon,Piccadilly,d2
+undirected,,,,Hillingdon,Ickenham,Piccadilly,d2
+undirected,,,,Ickenham,Ruislip,Piccadilly,d2
+undirected,,,,Ruislip,Ruislip Manor,Piccadilly,d2
+undirected,,,,Ruislip Manor,Eastcote,Piccadilly,d2
+undirected,,,,Eastcote,Rayners Lane,Piccadilly,d2
+undirected,,,,Rayners Lane,West Harrow,Metropolitan,d2
+undirected,,,,Rayners Lane,South Harrow,Piccadilly,d2
+undirected,,,,West Harrow,Harrow-on-the-Hill,Metropolitan,d2
+undirected,,,,Harrow-on-the-Hill,North Harrow,Metropolitan,d2
+undirected,,,,Harrow-on-the-Hill,Northwick Park,Metropolitan,d2
+undirected,,,,Amersham,Chalfont & Latimer,Metropolitan,d2
+undirected,,,,Chalfont & Latimer,Chorleywood,Metropolitan,d2
+undirected,,,,Chalfont & Latimer,Chesham,Metropolitan,d2
+undirected,,,,Chorleywood,Rickmansworth,Metropolitan,d2
+undirected,,,,Rickmansworth,Moor Park,Metropolitan,d2
+undirected,,,,Moor Park,Northwood,Metropolitan,d2
+undirected,,,,Moor Park,Croxley,Metropolitan,d2
+undirected,,,,Northwood,Northwood Hills,Metropolitan,d2
+undirected,,,,Northwood Hills,Pinner,Metropolitan,d2
+undirected,,,,Pinner,North Harrow,Metropolitan,d2
+undirected,,,,Northwick Park,Preston Road,Metropolitan,d2
+undirected,,,,Croxley,Watford,Metropolitan,d2
+undirected,,,,Stratford High Street,Abbey Road,DLR,d2
+undirected,,,,Royal Victoria,Custom House,DLR,d2
+undirected,,,,Limehouse,Westferry,DLR,d2
+undirected,,,,Westferry,West India Quay,DLR,d2
+undirected,,,,Westferry,Poplar,DLR,d2
+undirected,,,,West India Quay,Poplar,DLR,d2
+undirected,,,,Heron Quays,South Quay,DLR,d2
+undirected,,,,South Quay,Crossharbour,DLR,d2
+undirected,,,,Crossharbour,Mudchute,DLR,d2
+undirected,,,,Mudchute,Island Gardens,DLR,d2
+undirected,,,,Island Gardens,Cutty Sark,DLR,d2
+undirected,,,,Cutty Sark,Greenwich,DLR,d2
+undirected,,,,Greenwich,Deptford Bridge,DLR,d2
+undirected,,,,Deptford Bridge,Elverson Road,DLR,d2
+undirected,,,,Elverson Road,Lewisham,DLR,d2
+undirected,,,,Poplar,All Saints,DLR,d2
+undirected,,,,Poplar,Blackwall,DLR,d2
+undirected,,,,All Saints,Langdon Park,DLR,d2
+undirected,,,,Blackwall,East India,DLR,d2
+undirected,,,,Custom House,Prince Regent,DLR,d2
+undirected,,,,Prince Regent,Royal Albert,DLR,d2
+undirected,,,,Royal Albert,Beckton Park,DLR,d2
+undirected,,,,Beckton Park,Cyprus,DLR,d2
+undirected,,,,Cyprus,Gallions Reach,DLR,d2
+undirected,,,,Gallions Reach,Beckton,DLR,d2
+undirected,,,,Langdon Park,Devons Road,DLR,d2
+undirected,,,,Devons Road,Bow Church,DLR,d2
+undirected,,,,Bow Church,Pudding Mill Lane,DLR,d2
+undirected,,,,Woolwich Arsenal,King George V,DLR,d2
+undirected,,,,King George V,London City Airport,DLR,d2
+undirected,,,,West Silvertown,Pontoon Dock,DLR,d2
+undirected,,,,Pontoon Dock,London City Airport,DLR,d2
+undirected,,,,Edgware,Burnt Oak,Northern,d2
+undirected,,,,Burnt Oak,Colindale,Northern,d2
+undirected,,,,Colindale,Hendon Central,Northern,d2
+undirected,,,,Hendon Central,Brent Cross,Northern,d2
+undirected,,,,Brent Cross,Golders Green,Northern,d2
+undirected,,,,Golders Green,Hampstead,Northern,d2
+undirected,,,,Hampstead,Belsize Park,Northern,d2
+undirected,,,,Belsize Park,Chalk Farm,Northern,d2
+undirected,,,,Chalk Farm,Camden Town,Northern,d2
+undirected,,,,Camden Town,Kentish Town,Northern,d2
+undirected,,,,Camden Town,Mornington Crescent,Northern,d2
+undirected,,,,Angel,Old Street,Northern,d2
+undirected,,,,Borough,Elephant & Castle,Northern,d2
+undirected,,,,Elephant & Castle,Kennington,Northern,d2
+undirected,,,,Elephant & Castle,Lambeth North,Bakerloo,d2
+undirected,,,,Kennington,Oval,Northern,d2
+undirected,,,,Kennington,Nine Elms,Northern,d2
+undirected,,,,Oval,Stockwell,Northern,d2
+undirected,,,,Stockwell,Clapham North,Northern,d2
+undirected,,,,Stockwell,Brixton,Victoria,d2
+undirected,,,,Stockwell,Vauxhall,Victoria,d2
+undirected,,,,Clapham North,Clapham Common,Northern,d2
+undirected,,,,Clapham Common,Clapham South,Northern,d2
+undirected,,,,Clapham South,Balham,Northern,d2
+undirected,,,,Balham,Tooting Bec,Northern,d2
+undirected,,,,Tooting Bec,Tooting Broadway,Northern,d2
+undirected,,,,Tooting Broadway,Colliers Wood,Northern,d2
+undirected,,,,Colliers Wood,South Wimbledon,Northern,d2
+undirected,,,,South Wimbledon,Morden,Northern,d2
+undirected,,,,Finchley Central,Mill Hill East,Northern,d2
+undirected,,,,Finchley Central,West Finchley,Northern,d2
+undirected,,,,Finchley Central,East Finchley,Northern,d2
+undirected,,,,Charing Cross,Leicester Square,Northern,d2
+undirected,,,,Charing Cross,Piccadilly Circus,Bakerloo,d2
+undirected,,,,High Barnet,Totteridge & Whetstone,Northern,d2
+undirected,,,,Totteridge & Whetstone,Woodside Park,Northern,d2
+undirected,,,,Woodside Park,West Finchley,Northern,d2
+undirected,,,,East Finchley,Highgate,Northern,d2
+undirected,,,,Highgate,Archway,Northern,d2
+undirected,,,,Archway,Tufnell Park,Northern,d2
+undirected,,,,Tufnell Park,Kentish Town,Northern,d2
+undirected,,,,Warren Street,Goodge Street,Northern,d2
+undirected,,,,Leicester Square,Piccadilly Circus,Piccadilly,d2
+undirected,,,,Leicester Square,Covent Garden,Piccadilly,d2
+undirected,,,,Battersea Power Station,Nine Elms,Northern,d2
+undirected,,,,Maryland,Forest Gate,TfL Rail,d2
+undirected,,,,Forest Gate,Manor Park,TfL Rail,d2
+undirected,,,,Manor Park,Ilford,TfL Rail,d2
+undirected,,,,Ilford,Seven Kings,TfL Rail,d2
+undirected,,,,Seven Kings,Goodmayes,TfL Rail,d2
+undirected,,,,Goodmayes,Chadwell Heath,TfL Rail,d2
+undirected,,,,Gidea Park,Harold Wood,TfL Rail,d2
+undirected,,,,Harold Wood,Brentwood,TfL Rail,d2
+undirected,,,,Brentwood,Shenfield,TfL Rail,d2
+undirected,,,,Kilburn Park,Maida Vale,Bakerloo,d2
+undirected,,,,Maida Vale,Warwick Avenue,Bakerloo,d2
+undirected,,,,South Ealing,Northfields,Piccadilly,d2
+undirected,,,,Knightsbridge,Hyde Park Corner,Piccadilly,d2
+undirected,,,,Caledonian Road,Holloway Road,Piccadilly,d2
+undirected,,,,Holloway Road,Arsenal,Piccadilly,d2
+undirected,,,,Arsenal,Finsbury Park,Piccadilly,d2
+undirected,,,,Finsbury Park,Manor House,Piccadilly,d2
+undirected,,,,Manor House,Turnpike Lane,Piccadilly,d2
+undirected,,,,Turnpike Lane,Wood Green,Piccadilly,d2
+undirected,,,,Wood Green,Bounds Green,Piccadilly,d2
+undirected,,,,Bounds Green,Arnos Grove,Piccadilly,d2
+undirected,,,,Arnos Grove,Southgate,Piccadilly,d2
+undirected,,,,Southgate,Oakwood,Piccadilly,d2
+undirected,,,,Oakwood,Cockfosters,Piccadilly,d2
+undirected,,,,South Harrow,Sudbury Hill,Piccadilly,d2
+undirected,,,,Sudbury Hill,Sudbury Town,Piccadilly,d2
+undirected,,,,Sudbury Town,Alperton,Piccadilly,d2
+undirected,,,,Alperton,Park Royal,Piccadilly,d2
+undirected,,,,Park Royal,North Ealing,Piccadilly,d2
+undirected,,,,Heathrow Terminal 4,Hatton Cross,Piccadilly,d2
+undirected,,,,Heathrow Terminal 4,Heathrow Terminals 2 & 3,Piccadilly,d2
+undirected,,,,Hatton Cross,Heathrow Terminals 2 & 3,Piccadilly,d2
+undirected,,,,Hatton Cross,Hounslow West,Piccadilly,d2
+undirected,,,,Heathrow Terminals 2 & 3,Heathrow Terminal 5,Piccadilly,d2
+undirected,,,,Hounslow West,Hounslow Central,Piccadilly,d2
+undirected,,,,Hounslow Central,Hounslow East,Piccadilly,d2
+undirected,,,,Hounslow East,Osterley,Piccadilly,d2
+undirected,,,,Osterley,Boston Manor,Piccadilly,d2
+undirected,,,,Boston Manor,Northfields,Piccadilly,d2
+undirected,,,,Vauxhall,Pimlico,Victoria,d2

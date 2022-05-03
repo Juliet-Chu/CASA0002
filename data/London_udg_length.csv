@@ -1,0 +1,468 @@
+﻿source,target,ns1:data3,key4
+Wembley Park,Kingsbury,2916.7715580506483,d1
+Wembley Park,Neasden,2353.1659381957816,d1
+Wembley Park,Preston Road,1419.7351657633037,d1
+Wembley Park,Finchley Road,7266.37392749648,d1
+Kingsbury,Queensbury,1245.9952343630068,d1
+Queensbury,Canons Park,1693.307343195774,d1
+Canons Park,Stanmore,1419.6694762456716,d1
+Stratford,West Ham,1673.509515131191,d1
+Stratford,Mile End,2805.0013918567865,d1
+Stratford,Leyton,2131.342925924046,d1
+Stratford,Hackney Wick,1572.9232793498122,d1
+Stratford,Stratford High Street,519.3000735439254,d1
+Stratford,Pudding Mill Lane,1137.033257087214,d1
+Stratford,Stratford International,1321.0681171138774,d1
+Stratford,Liverpool Street,6698.4612704809615,d1
+Stratford,Maryland,951.3047206005876,d1
+West Ham,Canning Town,1695.0807456335294,d1
+West Ham,Bromley-by-Bow,1212.24554267459,d1
+West Ham,Plaistow,929.8354935578001,d1
+West Ham,Abbey Road,533.8424216951112,d1
+West Ham,Star Lane,863.651663302012,d1
+Canning Town,North Greenwich,1799.942778092675,d1
+Canning Town,Star Lane,866.9991916215113,d1
+Canning Town,Royal Victoria,989.5890743360787,d1
+Canning Town,East India,1155.218499145749,d1
+Canning Town,West Silvertown,1651.1250609252909,d1
+North Greenwich,Canary Wharf,1829.783291029848,d1
+Canary Wharf,Canada Water,2601.8662764931455,d1
+Canary Wharf,West India Quay,327.2442162465769,d1
+Canary Wharf,Heron Quays,351.57198739464246,d1
+Canada Water,Bermondsey,989.5169205605864,d1
+Canada Water,Rotherhithe,435.2544814875196,d1
+Canada Water,Surrey Quays,549.516230959454,d1
+Bermondsey,London Bridge,2087.8265384230676,d1
+London Bridge,Southwark,1098.349085102723,d1
+London Bridge,Bank and Monument,886.7283711455719,d1
+London Bridge,Borough,514.5938672623976,d1
+Southwark,Waterloo,656.4269295165401,d1
+Waterloo,Westminster,850.36002636052,d1
+Waterloo,Embankment,769.4283320890333,d1
+Waterloo,Kennington,1760.1985166074573,d1
+Waterloo,Lambeth North,573.689056175681,d1
+Waterloo,Bank and Monument,2542.954443857111,d1
+Westminster,Green Park,1423.7801946059371,d1
+Westminster,St. James's Park,560.7493399066927,d1
+Westminster,Embankment,753.7645436404749,d1
+Green Park,Bond Street,1148.912313161808,d1
+Green Park,Hyde Park Corner,779.8893002669062,d1
+Green Park,Piccadilly Circus,777.6260868051102,d1
+Green Park,Victoria,1209.5998088021067,d1
+Green Park,Oxford Circus,1010.5664752575733,d1
+Bond Street,Baker Street,1744.2782307078057,d1
+Bond Street,Marble Arch,683.4362347688882,d1
+Bond Street,Oxford Circus,554.3405652910504,d1
+Baker Street,St. John's Wood,2138.930092928529,d1
+Baker Street,Great Portland Street,826.8194453063362,d1
+Baker Street,Edgware Road,1034.840367463597,d1
+Baker Street,Finchley Road,3534.6372473145702,d1
+Baker Street,Marylebone,538.2983257940762,d1
+Baker Street,Regent's Park,795.5400496362967,d1
+St. John's Wood,Swiss Cottage,969.9402928050149,d1
+Swiss Cottage,Finchley Road,645.3527442249119,d1
+Finchley Road,West Hampstead,755.7345247172581,d1
+Neasden,Dollis Hill,785.5830137546889,d1
+Dollis Hill,Willesden Green,1246.1093817936883,d1
+Willesden Green,Kilburn,1185.0579298373736,d1
+Kilburn,West Hampstead,1015.6216072668693,d1
+West Hampstead,Brondesbury,849.2312353810368,d1
+West Hampstead,Finchley Road & Frognal,630.6575296114287,d1
+West Acton,Ealing Broadway,1616.902166819496,d1
+West Acton,North Acton,1811.4947747423628,d1
+Ealing Broadway,Ealing Common,1565.2970829567487,d1
+North Acton,Hanger Lane,2454.293348667404,d1
+North Acton,East Acton,1180.5193163422634,d1
+West Ruislip,Ruislip Gardens,2124.393196486331,d1
+Ruislip Gardens,South Ruislip,885.8857261563745,d1
+South Ruislip,Northolt,2323.9905207104707,d1
+Northolt,Greenford,1818.4662603471675,d1
+Greenford,Perivale,1596.4351211841758,d1
+Perivale,Hanger Lane,2229.885214801891,d1
+East Acton,White City,1957.1845158845535,d1
+White City,Shepherd's Bush,1300.5010932593639,d1
+Shepherd's Bush,Holland Park,911.6794212849006,d1
+Shepherd's Bush,Kensington,998.7301384895818,d1
+Shepherd's Bush,Willesden Junction,3906.332911929734,d1
+Holland Park,Notting Hill Gate,699.7334629696246,d1
+Notting Hill Gate,Queensway,638.3229308799469,d1
+Notting Hill Gate,High Street Kensington,960.6455349941403,d1
+Notting Hill Gate,Bayswater,750.0482410997673,d1
+Queensway,Lancaster Gate,858.1496214617824,d1
+Lancaster Gate,Marble Arch,1218.6021847603308,d1
+Oxford Circus,Tottenham Court Road,874.302305633629,d1
+Oxford Circus,Regent's Park,978.0506280257913,d1
+Oxford Circus,Piccadilly Circus,963.8300743985687,d1
+Oxford Circus,Warren Street,1149.7144464135158,d1
+Tottenham Court Road,Holborn,797.0616575605887,d1
+Tottenham Court Road,Goodge Street,644.4723699964712,d1
+Tottenham Court Road,Leicester Square,585.9403705630882,d1
+Holborn,Chancery Lane,565.4837123767578,d1
+Holborn,Covent Garden,632.9405713222607,d1
+Holborn,Russell Square,706.4343152141736,d1
+Chancery Lane,St. Paul's,1095.1511969319301,d1
+St. Paul's,Bank and Monument,849.5248408818456,d1
+Bank and Monument,Liverpool Street,841.5026837500652,d1
+Bank and Monument,Cannon Street,329.31271609391433,d1
+Bank and Monument,Tower Hill,839.7304432541619,d1
+Bank and Monument,Shadwell,2317.101463769648,d1
+Bank and Monument,Moorgate,776.8294614290753,d1
+Liverpool Street,Bethnal Green,2408.292001905974,d1
+Liverpool Street,Aldgate,722.084082047546,d1
+Liverpool Street,Moorgate,434.0874486024437,d1
+Liverpool Street,Aldgate East,965.8659667178712,d1
+Bethnal Green,Mile End,1992.4218024896984,d1
+Bethnal Green,Cambridge Heath,831.8715882461433,d1
+Mile End,Stepney Green,1029.272377270674,d1
+Mile End,Bow Road,624.9321658959553,d1
+Leyton,Leytonstone,1663.8435602914042,d1
+Leytonstone,Snaresbrook,1658.1506175083173,d1
+Leytonstone,Wanstead,1667.4505513984234,d1
+Snaresbrook,South Woodford,1315.8207360680144,d1
+South Woodford,Woodford,1711.9549160102877,d1
+Woodford,Buckhurst Hill,2333.6093461217,d1
+Woodford,Roding Valley,1392.4301328257104,d1
+Buckhurst Hill,Loughton,1835.4744031267676,d1
+Loughton,Debden,2052.117089915105,d1
+Debden,Theydon Bois,3322.1111580319994,d1
+Theydon Bois,Epping,2625.4836875129763,d1
+Wanstead,Redbridge,1180.3855563741024,d1
+Redbridge,Gants Hill,1457.7437616270033,d1
+Gants Hill,Newbury Park,2357.7571209024486,d1
+Newbury Park,Barkingside,1130.55442165615,d1
+Barkingside,Fairlop,1168.7298360119837,d1
+Fairlop,Hainault,878.6835661434217,d1
+Hainault,Grange Hill,1107.6486099741965,d1
+Grange Hill,Chigwell,1346.9127306213024,d1
+Chigwell,Roding Valley,2188.6593657403496,d1
+Cambridge Heath,London Fields,979.4169859708212,d1
+London Fields,Hackney Downs,926.0127117881482,d1
+Hackney Downs,Rectory Road,1201.0223774942008,d1
+Hackney Downs,Clapton,1493.1171134857664,d1
+Rectory Road,Stoke Newington,783.2557143382253,d1
+Stoke Newington,Stamford Hill,1211.4700832715741,d1
+Stamford Hill,Seven Sisters,1125.0834046659452,d1
+Seven Sisters,Bruce Grove,1332.2700481810734,d1
+Seven Sisters,Finsbury Park,3405.8883900288733,d1
+Seven Sisters,Tottenham Hale,1153.5391678801902,d1
+Bruce Grove,White Hart Lane,1213.4238875288506,d1
+White Hart Lane,Silver Street,1199.9213592935619,d1
+Silver Street,Edmonton Green,1198.454675884401,d1
+Edmonton Green,Southbury,2970.5494541595926,d1
+Edmonton Green,Bush Hill Park,1912.0054425407775,d1
+Southbury,Turkey Street,2701.576726036429,d1
+Turkey Street,Theobalds Grove,2339.842151061229,d1
+Theobalds Grove,Cheshunt,1539.9056279997315,d1
+Enfield Town,Bush Hill Park,1406.8660227780504,d1
+Romford,Emerson Park,2920.2385161984134,d1
+Romford,Chadwell Heath,3869.5880465443015,d1
+Romford,Gidea Park,1693.9009368560467,d1
+Emerson Park,Upminster,2626.8304525483168,d1
+Upminster,Upminster Bridge,1310.7826337814267,d1
+Clapton,St James Street,2772.738664582497,d1
+St James Street,Walthamstow Central,970.7099871665257,d1
+Walthamstow Central,Wood Street,1367.6959005249753,d1
+Walthamstow Central,Blackhorse Road,1559.0637437021917,d1
+Wood Street,Highams Park,2579.139408426991,d1
+Highams Park,Chingford,2859.8812673897037,d1
+Richmond,Kew Gardens,2168.1632640797725,d1
+Kew Gardens,Gunnersbury,1780.280918950681,d1
+Gunnersbury,South Acton,1016.8393795883451,d1
+Gunnersbury,Turnham Green,1547.3179979167755,d1
+South Acton,Acton Central,1152.5272704403333,d1
+Harrow & Wealdstone,Kenton,1780.6719958813558,d1
+Harrow & Wealdstone,Headstone Lane,1850.9142197146618,d1
+Kenton,South Kenton,1386.9692312837713,d1
+South Kenton,North Wembley,935.7451700868112,d1
+North Wembley,Wembley Central,1348.1564424804499,d1
+Wembley Central,Stonebridge Park,1718.098466968895,d1
+Stonebridge Park,Harlesden,1494.9487766669363,d1
+Harlesden,Willesden Junction,1144.2331916335168,d1
+Willesden Junction,Kensal Green,1352.2488873708758,d1
+Willesden Junction,Acton Central,3065.4656213528933,d1
+Willesden Junction,Kensal Rise,1629.2437946815917,d1
+Kensal Green,Queen's Park,1384.6256610695468,d1
+Queen's Park,Kilburn High Road,1064.503149075297,d1
+Queen's Park,Kilburn Park,809.8309508921989,d1
+Kilburn High Road,South Hampstead,976.3553884725361,d1
+Kensal Rise,Brondesbury Park,1002.5354335708771,d1
+Brondesbury Park,Brondesbury,742.1886718422127,d1
+Finchley Road & Frognal,Hampstead Heath,1420.5331475479406,d1
+Hampstead Heath,Gospel Oak,938.5606009704062,d1
+Gospel Oak,Kentish Town West,1091.1594272884126,d1
+Gospel Oak,Upper Holloway,1900.2253023634494,d1
+Kentish Town West,Camden Road,898.2449445973257,d1
+Camden Road,Caledonian Road & Barnsbury,1764.5782904872456,d1
+Caledonian Road & Barnsbury,Highbury & Islington,813.6000250374882,d1
+Highbury & Islington,Canonbury,981.1097680998103,d1
+Highbury & Islington,King's Cross St. Pancras,2581.8530096549894,d1
+Highbury & Islington,Finsbury Park,2057.343960441494,d1
+Canonbury,Dalston Kingsland,1181.1783409530242,d1
+Canonbury,Dalston Junction,1363.8686463395516,d1
+Dalston Kingsland,Hackney Central,1289.7562439979392,d1
+Hackney Central,Homerton,1035.6155471119664,d1
+Homerton,Hackney Wick,1343.350383060755,d1
+Whitechapel,Shadwell,1094.3438658649518,d1
+Whitechapel,Shoreditch High Street,1195.8214474655867,d1
+Whitechapel,Aldgate East,963.3340688056771,d1
+Whitechapel,Stepney Green,1080.164183494991,d1
+Shadwell,Wapping,858.7781938095746,d1
+Shadwell,Limehouse,1192.503732944805,d1
+Shadwell,Tower Gateway,1277.3034866926182,d1
+Wapping,Rotherhithe,450.55636194478814,d1
+Surrey Quays,New Cross Gate,2081.7685848734436,d1
+Surrey Quays,New Cross,2316.9975210797097,d1
+Surrey Quays,Queens Road Peckham,2392.2583742349093,d1
+New Cross Gate,Brockley,1229.079656885741,d1
+Shoreditch High Street,Hoxton,1075.2523981341901,d1
+Sydenham,Crystal Palace,1979.8329341857445,d1
+Sydenham,Forest Hill,1415.1049911533487,d1
+Sydenham,Penge West,1185.2705985486307,d1
+Queens Road Peckham,Peckham Rye,1130.5608780833525,d1
+Peckham Rye,Denmark Hill,1335.586610926213,d1
+Denmark Hill,Clapham High Street,3241.9851125430464,d1
+Clapham High Street,Wandsworth Road,621.9703299899795,d1
+Wandsworth Road,Clapham Junction,2876.4355082611737,d1
+Wandsworth Road,Battersea Park,1168.489261461717,d1
+Clapham Junction,Imperial Wharf,2203.768230478823,d1
+West Brompton,Imperial Wharf,1577.194293784901,d1
+West Brompton,Kensington,1545.6914875145162,d1
+West Brompton,Earl's Court,567.3891917631418,d1
+West Brompton,Fulham Broadway,942.7618764085914,d1
+South Hampstead,Euston,3831.4451841988366,d1
+Euston,Camden Town,1373.598810173261,d1
+Euston,King's Cross St. Pancras,863.3696737511644,d1
+Euston,Mornington Crescent,783.3885973580482,d1
+Euston,Warren Street,546.2012018853841,d1
+Bushey,Watford High Street,1314.2502642271643,d1
+Bushey,Carpenders Park,1962.978465531747,d1
+Watford High Street,Watford Junction,1406.0375315796284,d1
+Carpenders Park,Hatch End,2443.3422969165863,d1
+Hatch End,Headstone Lane,1146.1498418230478,d1
+Upper Holloway,Crouch Hill,1214.896340566009,d1
+Crouch Hill,Harringay Green Lanes,1506.5777999454847,d1
+Harringay Green Lanes,South Tottenham,1858.7650958291,d1
+South Tottenham,Blackhorse Road,2291.1399207657273,d1
+Blackhorse Road,Walthamstow Queens Road,1422.7370347044225,d1
+Blackhorse Road,Tottenham Hale,1414.2057308815913,d1
+Walthamstow Queens Road,Leyton Midland Road,1781.9840512516755,d1
+Leyton Midland Road,Leytonstone High Road,1214.097006908648,d1
+Leytonstone High Road,Wanstead Park,1919.3048072759454,d1
+Wanstead Park,Woodgrange Park,1320.7732927904171,d1
+Woodgrange Park,Barking,2808.6551620013265,d1
+Barking,East Ham,2422.2949270335366,d1
+Barking,Upney,1367.2954815493888,d1
+Brockley,Honor Oak Park,1734.3211743399022,d1
+Honor Oak Park,Forest Hill,1258.0639739904584,d1
+Penge West,Anerley,682.1023245897044,d1
+Anerley,Norwood Junction,1798.4480565963659,d1
+Norwood Junction,West Croydon,2935.5862436030616,d1
+Dalston Junction,Haggerston,808.0082953174369,d1
+Haggerston,Hoxton,834.5786379635223,d1
+Kensington,Earl's Court,1546.6911759759541,d1
+Earl's Court,Gloucester Road,910.1212138492417,d1
+Earl's Court,West Kensington,944.0652943049492,d1
+Earl's Court,High Street Kensington,1300.860111181753,d1
+Earl's Court,Barons Court,1504.7980653624195,d1
+Gloucester Road,South Kensington,751.3334794399952,d1
+Gloucester Road,High Street Kensington,1005.1187862240921,d1
+West Kensington,Barons Court,563.6761451116929,d1
+Barons Court,Hammersmith,893.8320859206013,d1
+Hammersmith,Ravenscourt Park,840.1029182543074,d1
+Hammersmith,Goldhawk Road,1005.5893352454182,d1
+Hammersmith,Turnham Green,2154.156716748776,d1
+Ravenscourt Park,Stamford Brook,709.2895541698568,d1
+Stamford Brook,Turnham Green,610.2892102796968,d1
+Turnham Green,Chiswick Park,950.3729810236903,d1
+Turnham Green,Acton Town,2222.542223351717,d1
+Chiswick Park,Acton Town,1274.944806888584,d1
+Acton Town,Ealing Common,1026.6228291377497,d1
+Acton Town,South Ealing,2127.9392140339887,d1
+Ealing Common,North Ealing,924.4084541368073,d1
+South Kensington,Sloane Square,1173.2223716003032,d1
+South Kensington,Knightsbridge,1300.8153185325164,d1
+Sloane Square,Victoria,1165.7590132289727,d1
+Wimbledon,Wimbledon Park,1655.9122645893813,d1
+Wimbledon Park,Southfields,1359.6497699826496,d1
+Southfields,East Putney,1630.8880949906354,d1
+East Putney,Putney Bridge,1058.5655902704514,d1
+Putney Bridge,Parsons Green,994.4623493165408,d1
+Parsons Green,Fulham Broadway,702.3383314280833,d1
+Bayswater,Paddington,1898.8210507556623,d1
+Paddington,Edgware Road,788.6312768460565,d1
+Paddington,Royal Oak,937.2965127137686,d1
+Paddington,Warwick Avenue,932.6259398244667,d1
+Edgware Road,Marylebone,602.8833428862209,d1
+Victoria,St. James's Park,777.3055963185974,d1
+Victoria,Pimlico,1399.8781509033847,d1
+Embankment,Temple,794.5940025607406,d1
+Embankment,Charing Cross,340.33082045915154,d1
+Temple,Blackfriars,752.0407994038349,d1
+Blackfriars,Mansion House,660.2642961231305,d1
+Mansion House,Cannon Street,248.17870615091502,d1
+Tower Hill,Aldgate East,839.2339844110513,d1
+Tower Hill,Aldgate,597.1867971240721,d1
+Bow Road,Bromley-by-Bow,1008.7699093619668,d1
+Plaistow,Upton Park,1321.0786434318593,d1
+Upton Park,East Ham,1300.2458265810913,d1
+Upney,Becontree,1927.1569041477198,d1
+Becontree,Dagenham Heathway,1428.2007770669322,d1
+Dagenham Heathway,Dagenham East,1279.2277890494702,d1
+Dagenham East,Elm Park,2295.7883563830733,d1
+Elm Park,Hornchurch,1544.3272116890466,d1
+Hornchurch,Upminster Bridge,1226.929480217647,d1
+Great Portland Street,Euston Square,619.9602182594923,d1
+Euston Square,King's Cross St. Pancras,1039.4786796957117,d1
+King's Cross St. Pancras,Farringdon,1857.9984375576812,d1
+King's Cross St. Pancras,Angel,1180.3187207304165,d1
+King's Cross St. Pancras,Russell Square,870.5007047432198,d1
+King's Cross St. Pancras,Caledonian Road,2034.7003654012253,d1
+Farringdon,Barbican,460.90994374157964,d1
+Barbican,Moorgate,707.2883661949031,d1
+Moorgate,Old Street,853.5197187477524,d1
+Goldhawk Road,Shepherd's Bush Market,439.2894224874606,d1
+Shepherd's Bush Market,Wood Lane,526.2629552444708,d1
+Wood Lane,Latimer Road,553.8620754401185,d1
+Latimer Road,Ladbroke Grove,659.5805348395389,d1
+Ladbroke Grove,Westbourne Park,805.9399274328965,d1
+Westbourne Park,Royal Oak,969.4042460432147,d1
+Uxbridge,Hillingdon,2144.3951273719795,d1
+Hillingdon,Ickenham,1124.4371952028312,d1
+Ickenham,Ruislip,1785.6549823469716,d1
+Ruislip,Ruislip Manor,678.8859802378607,d1
+Ruislip Manor,Eastcote,1126.2390522049031,d1
+Eastcote,Rayners Lane,1819.3543779177155,d1
+Rayners Lane,West Harrow,1364.1124364117632,d1
+Rayners Lane,South Harrow,1805.5567061366742,d1
+West Harrow,Harrow-on-the-Hill,1241.8686903537944,d1
+Harrow-on-the-Hill,North Harrow,1979.6287224819098,d1
+Harrow-on-the-Hill,Northwick Park,1303.1318574247287,d1
+Amersham,Chalfont & Latimer,3385.660147356338,d1
+Chalfont & Latimer,Chorleywood,3512.853291457023,d1
+Chalfont & Latimer,Chesham,6315.936388258627,d1
+Chorleywood,Rickmansworth,3551.353240562774,d1
+Rickmansworth,Moor Park,3397.2194579962465,d1
+Moor Park,Northwood,2218.2991124083956,d1
+Moor Park,Croxley,2910.1506484065458,d1
+Northwood,Northwood Hills,1586.6688847132184,d1
+Northwood Hills,Pinner,2158.6485916962183,d1
+Pinner,North Harrow,1517.7554108908582,d1
+Northwick Park,Preston Road,1733.1337992219123,d1
+Croxley,Watford,2054.8785246611474,d1
+Stratford High Street,Abbey Road,655.2113012868274,d1
+Royal Victoria,Custom House,606.3433882279859,d1
+Limehouse,Westferry,973.6170070799906,d1
+Westferry,West India Quay,576.9560077518594,d1
+Westferry,Poplar,682.5134447409538,d1
+West India Quay,Poplar,260.8625738885644,d1
+Heron Quays,South Quay,651.6418490664939,d1
+South Quay,Crossharbour,596.7475038225394,d1
+Crossharbour,Mudchute,466.36980157105614,d1
+Mudchute,Island Gardens,553.4510088554377,d1
+Island Gardens,Cutty Sark,797.6025385746273,d1
+Cutty Sark,Greenwich,633.6424322191444,d1
+Greenwich,Deptford Bridge,784.8639108673646,d1
+Deptford Bridge,Elverson Road,727.500450017667,d1
+Elverson Road,Lewisham,563.5457918693739,d1
+Poplar,All Saints,751.981942676604,d1
+Poplar,Blackwall,722.9585574519007,d1
+All Saints,Langdon Park,506.42399443376854,d1
+Blackwall,East India,391.30720560204907,d1
+Custom House,Prince Regent,524.4868788087249,d1
+Prince Regent,Royal Albert,888.4204824784287,d1
+Royal Albert,Beckton Park,666.2264934723727,d1
+Beckton Park,Cyprus,628.1101328840415,d1
+Cyprus,Gallions Reach,741.7738804536124,d1
+Gallions Reach,Beckton,1236.2482759979814,d1
+Langdon Park,Devons Road,852.3487962902415,d1
+Devons Road,Bow Church,638.4852454662212,d1
+Bow Church,Pudding Mill Lane,1008.2942934532412,d1
+Woolwich Arsenal,King George V,2429.2757433295433,d1
+King George V,London City Airport,1028.5768913272627,d1
+West Silvertown,Pontoon Dock,756.0458898725205,d1
+Pontoon Dock,London City Airport,1141.3500296621457,d1
+Edgware,Burnt Oak,1518.1296788637032,d1
+Burnt Oak,Colindale,1306.4220496936464,d1
+Colindale,Hendon Central,2152.5133789826464,d1
+Hendon Central,Brent Cross,1133.607342473523,d1
+Brent Cross,Golders Green,1515.0891033190928,d1
+Golders Green,Hampstead,2385.7259071808285,d1
+Hampstead,Belsize Park,1178.003104091705,d1
+Belsize Park,Chalk Farm,1038.100939487587,d1
+Chalk Farm,Camden Town,993.7771470058987,d1
+Camden Town,Kentish Town,1277.9656427683142,d1
+Camden Town,Mornington Crescent,593.8127865680211,d1
+Angel,Old Street,1520.6547602898459,d1
+Borough,Elephant & Castle,821.1401522031549,d1
+Elephant & Castle,Kennington,839.5683892248859,d1
+Elephant & Castle,Lambeth North,995.7202823039216,d1
+Kennington,Oval,915.1576843398624,d1
+Kennington,Nine Elms,2030.6218428562188,d1
+Oval,Stockwell,1284.0245384010548,d1
+Stockwell,Clapham North,952.3018787775421,d1
+Stockwell,Brixton,1586.7375413018674,d1
+Stockwell,Vauxhall,1506.8557095094175,d1
+Clapham North,Clapham Common,642.7574913786882,d1
+Clapham Common,Clapham South,1252.318232735916,d1
+Clapham South,Balham,1172.6346008174708,d1
+Balham,Tooting Bec,975.1654216105981,d1
+Tooting Bec,Tooting Broadway,1074.9614423432768,d1
+Tooting Broadway,Colliers Wood,1280.4196837866639,d1
+Colliers Wood,South Wimbledon,1078.468135995081,d1
+South Wimbledon,Morden,1533.2463105579077,d1
+Finchley Central,Mill Hill East,1522.2024425500774,d1
+Finchley Central,West Finchley,1236.7909481575177,d1
+Finchley Central,East Finchley,2370.556545276204,d1
+Charing Cross,Leicester Square,462.0748168437256,d1
+Charing Cross,Piccadilly Circus,571.8084397477885,d1
+High Barnet,Totteridge & Whetstone,2592.630501145615,d1
+Totteridge & Whetstone,Woodside Park,1477.1016967481034,d1
+Woodside Park,West Finchley,946.4743468956724,d1
+East Finchley,Highgate,1749.02065820929,d1
+Highgate,Archway,1590.2047962132685,d1
+Archway,Tufnell Park,993.5361118865225,d1
+Tufnell Park,Kentish Town,764.601008156762,d1
+Warren Street,Goodge Street,532.5730091549725,d1
+Leicester Square,Piccadilly Circus,374.69140576968096,d1
+Leicester Square,Covent Garden,365.53129908161407,d1
+Battersea Power Station,Nine Elms,1073.4653619699277,d1
+Maryland,Forest Gate,1303.7590706661204,d1
+Forest Gate,Manor Park,1548.7658088184799,d1
+Manor Park,Ilford,1831.469424535031,d1
+Ilford,Seven Kings,1970.5719243435037,d1
+Seven Kings,Goodmayes,983.7481715431122,d1
+Goodmayes,Chadwell Heath,1284.1799168512655,d1
+Gidea Park,Harold Wood,2284.6409372784983,d1
+Harold Wood,Brentwood,5269.263106583182,d1
+Brentwood,Shenfield,3348.924503838544,d1
+Kilburn Park,Maida Vale,851.7815229283082,d1
+Maida Vale,Warwick Avenue,787.6125699516288,d1
+South Ealing,Northfields,452.9452906768702,d1
+Knightsbridge,Hyde Park Corner,583.953588300125,d1
+Caledonian Road,Holloway Road,615.2974429776363,d1
+Holloway Road,Arsenal,666.7091358851302,d1
+Arsenal,Finsbury Park,772.7526932280884,d1
+Finsbury Park,Manor House,1116.1136272204042,d1
+Manor House,Turnpike Lane,2321.65935844876,d1
+Turnpike Lane,Wood Green,930.8256254020918,d1
+Wood Green,Bounds Green,1505.4379144046243,d1
+Bounds Green,Arnos Grove,1354.2424903762403,d1
+Arnos Grove,Southgate,1979.1485866132953,d1
+Southgate,Oakwood,1865.6448541170557,d1
+Oakwood,Cockfosters,1343.9783464014474,d1
+South Harrow,Sudbury Hill,1485.4656590340196,d1
+Sudbury Hill,Sudbury Town,1617.0566152943964,d1
+Sudbury Town,Alperton,1660.357282042244,d1
+Alperton,Park Royal,1922.3982096317495,d1
+Park Royal,North Ealing,1099.6584506294923,d1
+Heathrow Terminal 4,Hatton Cross,1876.3326936399906,d1
+Heathrow Terminal 4,Heathrow Terminals 2 & 3,4186.537088413994,d1
+Hatton Cross,Heathrow Terminals 2 & 3,2412.7509457910387,d1
+Hatton Cross,Hounslow West,2803.4736612471906,d1
+Heathrow Terminals 2 & 3,Heathrow Terminal 5,2455.278475636726,d1
+Hounslow West,Hounslow Central,1479.083691996397,d1
+Hounslow Central,Hounslow East,745.6843834209424,d1
+Hounslow East,Osterley,967.4946724431844,d1
+Osterley,Boston Manor,2560.814291261296,d1
+Boston Manor,Northfields,930.8521452439965,d1
+Vauxhall,Pimlico,825.3282533076546,d1
